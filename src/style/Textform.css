@@ -1,0 +1,59 @@
+.t1{
+    border:1px solid grey;
+    width:1000px;
+    padding: 15px 5px 5px 15px;
+    box-shadow: 15px 15px 5px 2px rgba(0, 0, 0, 0.669) ;
+}
+
+.t1:focus{
+    box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.915) ;
+}
+
+.t2{
+    border:1px solid grey;
+    width:1000px;
+    padding: 15px 5px 5px 15px;
+    color:black;
+    box-shadow: 20px 15px 5px 2px #e7d40d3d;
+}
+
+.t2:focus{
+    box-shadow: 8px 8px 5px 2px #e7d40d3d ;
+}
+
+
+
+
+
+.navbar1{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    
+}
+
+
+.form-float{
+    padding: 20px 20px 20px 30px;
+}
+
+.btn{
+    box-shadow: 7px 7px 4px 2px rgba(241, 178, 4, 0.449);
+
+    --bs-btn-padding-x: 0.5rem;
+    --bs-btn-padding-y: 0.250rem;
+    
+}
+
+
+
+.content{
+    margin: 20px 20px 20px 30px;
+}
+
+.pre{
+    border:1px solid grey;
+    box-shadow:  7px 7px 4px 2px rgb(42, 41, 41);
+    width:fit-content;
+    height: fit-content;
+    padding:8px 8px 8px 8px ;
+}
